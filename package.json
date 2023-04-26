@@ -1,0 +1,24 @@
+{
+  "name": "aman",
+  "version": "1.0.0",
+  "description": "this is the aman batra application ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/developeramanbatra/aman-js.git"
+  },
+  "keywords": [
+    "fun",
+    "project"
+  ],
+  "author": "Aman Batra",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/developeramanbatra/aman-js/issues"
+  },
+  "homepage": "https://github.com/developeramanbatra/aman-js#readme"
+}
